@@ -1,16 +1,18 @@
+
 ---
 layout: home
 
 hero:
   name: "JEC Wiki"
-  tagline: "A community-maintained knowledge base for Jabalpur Engineering College students."
+  text: "Everything JEC students need, in one place."
+  tagline: "A community-maintained knowledge base for students of Jabalpur Engineering College. Find resources, share knowledge, and help the next student."
   actions:
     - theme: brand
-      text: Beginner's Guide
-      link: ./Beginners Guide.md
+      text: Explore the Wiki
+      link: /Academics/
     - theme: alt
-      text: Contribute on GitHub
-      link: https://github.com/YOUR-USERNAME/YOUR-REPO
+      text: Contribute to JEC Wiki
+      link: /contribute
 
 features:
   - title: 📚 Academics
@@ -18,30 +20,65 @@ features:
     link: /Academics/
 
   - title: 🎓 Newbie Guide
-    details: Useful information for new students about college essentials, admission, fees and campus life.
+    details: New to JEC? Get practical information about college essentials, admissions, fees and campus life.
     link: /NewbieDoubts/
 
   - title: 🧑‍💻 Clubs & Societies
-    details: Discover student clubs, coding communities, events and opportunities to participate.
+    details: Discover student clubs, coding communities, events and opportunities to get involved.
     link: /Clubs%20and%20Societies/
 
   - title: 🏫 College Life
-    details: Explore hostel information, campus facilities and practical student guides.
+    details: Explore hostel information, campus facilities and practical guides from fellow students.
     link: /CollegeLife/
 
-  - title: 🤝 Community Contributions
-    details: Help improve the wiki by fixing errors, adding resources and sharing useful information.
-    link: https://github.com/YOUR-USERNAME/YOUR-REPO/issues
-
   - title: 🔗 Important Links
-    details: Access useful college websites, academic portals and student resources from one place.
+    details: Find useful college websites, academic portals and student resources without searching everywhere.
     link: /Academics/
+
+  - title: 🤝 Community Contributions
+    details: Spotted an error or missing information? Help make this wiki more useful for every JEC student.
+    link: /contribute
 ---
 
+## Built by the JEC community
 
+JEC Wiki is a shared knowledge base created to make useful college information easier to find and maintain.
 
-# Contributors
+Whether you're a first-year student looking for guidance or a senior sharing resources, **your contribution can help someone else.**
+
+<div class="contribution-steps">
+
+### How can you contribute?
+
+- **Report an error** — outdated information, broken links or incorrect details.
+- **Add useful resources** — syllabus PDFs, schemes, academic notices and study materials.
+- **Share student knowledge** — club details, college processes, hostel tips and practical guides.
+- **Improve existing pages** — fix spelling, clarify explanations or organize information better.
+
+</div>
+
+<div class="contribution-cta">
+
+### You don't need to be a developer
+
+Not comfortable with Git or Markdown? No problem. Open a GitHub issue describing the missing information or correction. If you know how to edit Markdown and use Git, you can submit a pull request directly.
+
+[**Report an issue on GitHub →**](https://github.com/siddhant385/jec_wiki/issues)
+
+[**Browse the source code →**](https://github.com/siddhant385/jec_wiki)
+
+</div>
+
+## Our contributors
+
+JEC Wiki improves whenever students share what they know. Thanks to everyone who helps keep its information useful and up to date.
 
 <a href="https://github.com/siddhant385/jec_wiki/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=siddhant385/jec_wiki" />
+  <img src="https://contrib.rocks/image?repo=siddhant385/jec_wiki" alt="JEC Wiki contributors on GitHub" />
 </a>
+
+<p>
+  <a href="https://github.com/siddhant385/jec_wiki/graphs/contributors">Meet the contributors</a>
+  ·
+  <a href="https://github.com/siddhant385/jec_wiki/issues">Help improve the wiki</a>
+</p>
