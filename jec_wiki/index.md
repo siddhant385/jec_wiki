@@ -39,3 +39,9 @@ features:
 ---
 
 
+
+# Contributors
+
+<a href="https://github.com/siddhant385/jec_wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=siddhant385/jec_wiki" />
+</a>
