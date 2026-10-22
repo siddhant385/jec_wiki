@@ -1,7 +1,6 @@
-
 import { defineConfig } from "vitepress";
 
-const githubRepo = "https://github.com/YOUR-USERNAME/YOUR-REPO";
+const githubRepo = "https://github.com/siddhant385/jec_wiki";
 
 export default defineConfig({
   title: "JEC Wiki",
@@ -91,7 +90,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Built by the JEC community, for the JEC community.",
+      message: "Built by :heart:, for the JEC community.",
       copyright: "Community-maintained · Not an official college website",
     },
   },
